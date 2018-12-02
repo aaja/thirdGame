@@ -1,0 +1,5 @@
+{
+	"name": "child",
+	"compilerVersion": "5.2.6",
+	"typings":"typings/child.d.ts"
+}
